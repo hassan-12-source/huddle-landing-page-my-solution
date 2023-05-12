@@ -1,3 +1,5 @@
+Live link : https://hassan-12-source.github.io/huddle-landing-page-my-solution/
+
 # Frontend Mentor - Huddle landing page with curved sections
 
 ![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
